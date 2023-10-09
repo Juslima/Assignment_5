@@ -1,0 +1,12 @@
+/* Center the image */
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.centered-image {
+    max-width: 100%;
+    max-height: 100%;
+}

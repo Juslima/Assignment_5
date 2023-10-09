@@ -1,0 +1,74 @@
+/* Global Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #ededed;
+    background-color: #081b29;
+}
+
+/* Center the image */
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.centered-image {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* Navigation Styles */
+nav ul {
+    list-style-type: none;
+    color: #ededed;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    color: #ededed;
+}
+
+/* Change the color of links in the navigation menu */
+nav ul li a {
+    color: #ededed;
+    text-decoration: none;
+}
+
+/* Change link color on hover */
+nav ul li a:hover {
+    color: #00abf0;
+}
+
+
+/* Page-specific Styles */
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #2096ba;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color: pink;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    color: bisque;
+    text-align: justify;
+}
+
+/* Page 2 Styles */
+p {
+    border: 1px solid #2096ba;
+}
+
+/* Page 3 Styles */
+h4 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: bisque
+}
